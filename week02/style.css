@@ -1,0 +1,11 @@
+<style>
+.parallax {
+
+  background-image: url("https://gxlindsey.github.io/week02/kermit.jpg");
+  height: 1920px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
